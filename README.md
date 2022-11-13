@@ -109,16 +109,18 @@ module.exports = {
 }
 ```
 
-9. Create source code directory **src** with **index.ts**
+11. Create source code directory **src** with **index.ts**
 
+See [src/index.ts](main/src/index.ts)
 
-10. Create **public** directory with **index.html**
+12. Create **public** directory with **index.html**
 
+See [public/index/html](main/public/index.html)
 
-11. Build project
+13. Build project
 
     `npm run build`
     
-12. Run project on webpack development server
+14. Run project on webpack development server
 
     `npm run serve`
