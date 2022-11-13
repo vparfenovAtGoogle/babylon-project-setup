@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":"mBAAAA,MAAO,Q","sources":["webpack://view3d-client/./src/index.ts"],"sourcesContent":["alert (\"hello\")"],"names":["alert"],"sourceRoot":""}
