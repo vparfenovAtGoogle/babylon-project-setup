@@ -111,11 +111,11 @@ module.exports = {
 
 11. Create source code directory **src** with **index.ts**
 
-See [src/index.ts](main/src/index.ts)
+See [src/index.ts](src/index.ts)
 
 12. Create **public** directory with **index.html**
 
-See [public/index/html](main/public/index.html)
+See [public/index/html](public/index.html)
 
 13. Build project
 
